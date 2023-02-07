@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🏫 PhD Candidate at Simon Fraser University
+- 🔭 Currently working on statistical emulation of subglacial hydrology models
+- 🌱 Numerical modelling of glacier hydrology and dynamics
+- 🔗 https://timghill.github.io/
+
 <!--
 **timghill/timghill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
