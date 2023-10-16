@@ -2,7 +2,7 @@
 
 - 🏫 PhD Candidate at Simon Fraser University
 - 🔭 Currently working on statistical emulation of subglacial hydrology models
-- 🌱 Numerical modelling of glacier hydrology and dynamics
+- 🧊 Numerical modelling of glacier hydrology and dynamics
 - 🔗 https://timghill.github.io/
 
 <!--
